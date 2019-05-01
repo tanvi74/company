@@ -1,0 +1,89 @@
+.uppercard1{
+    background-color: teal;
+    margin-left:  30px;
+    margin-top: 30px;
+    padding-bottom: 40px;
+    box-shadow: 3px 3px 10px black;
+    padding-top: 10px;
+    border-radius: 8px;
+}
+
+.body{
+    background-color:  #EBE3E3;
+}
+
+.lowercard1{
+    background-color: white;
+    margin-left: 30px;
+    box-shadow: 3px 3px 10px black;
+    height: 450px;
+}
+
+.lowercard2{
+    background-color: white;
+    margin-right: 30px;
+     box-shadow: 3px 3px 10px black;
+}
+
+.uppercard2{
+    background-color: black;
+    margin-top: 30px;
+    padding-bottom: 40px;
+    box-shadow: 3px 3px 10px black;
+    border-radius: 8px;
+    padding-top: 10px;
+}
+
+.uppercard3{
+    background-color: teal;
+    margin-top: 30px;
+    padding-bottom: 40px;
+   box-shadow: 3px 3px 10px black;
+    padding-top: 10px;
+     border-radius: 8px;
+}
+
+.uppercard4{
+    background-color: teal;
+    margin-right: 30px;
+    margin-top: 30px;
+    padding-bottom: 40px;
+    box-shadow: 3px 3px 10px black;
+    border-radius: 8px;
+    padding-top: 10px;
+}
+
+
+.para{
+    padding-left: 170px;
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+}
+
+.para1{
+     padding-left: 230px;
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+}
+
+.para2{
+     padding-left: 180px;
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+}
+
+.para3{
+    padding-left: 190px;
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+
+}
+
+
+
+
+

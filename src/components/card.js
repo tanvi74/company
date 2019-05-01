@@ -126,9 +126,9 @@ class card extends Component{
                               </h3>
                               <Card.Body>
                               
-                              <div className="ui segment">
+                              
                               <div className="ui list">
-                                    <div className="item">
+                                    <div className="item" style={{marginLeft:10,marginRight:10}}>
                                     <button className="ui right floated red button">Failed</button>
                                            <div className="content">
                                            <div className="header" style={{paddingLeft: 10, fontSize: 18}}><i className="far fa-dot-circle" style={{color: "teal",paddingRight:18}}></i>
@@ -142,7 +142,7 @@ class card extends Component{
                                             </div></div>
                                     </div>
                                     
-                                    <div className="item">
+                                    <div className="item" style={{marginLeft:10,marginRight:10}}>
                                     <button className="ui right floated yellow button">progressing</button>
                                             <div className="content">
                                             <div className="header" style={{paddingLeft: 10, fontSize: 18}}><i className="far fa-dot-circle" style={{color: "teal",paddingRight:18}}></i>
@@ -157,7 +157,7 @@ class card extends Component{
                                             </div></div>
                                     </div>
                                     
-                                    <div className="item">
+                                    <div className="item" style={{marginLeft:10,marginRight:10}}>
                                     <button className="ui right floated green button">progressing</button>
                                             <div className="content">
                                             <div className="header" style={{paddingLeft: 10, fontSize: 18}}><i className="far fa-dot-circle" style={{color: "teal",paddingRight:18}}></i>
@@ -171,7 +171,7 @@ class card extends Component{
                                             </div></div>
                                     </div>
                                     
-                                    <div className="item">
+                                    <div className="item" style={{marginLeft:10,marginRight:10}}>
                                     <button className="ui right floated blue button">progressing</button>
                                             
                                             <div className="content">
@@ -187,7 +187,7 @@ class card extends Component{
                                             </div></div>
                                     </div>
                                     
-                                    <div className="item">
+                                    <div className="item" style={{marginLeft:10,marginRight:10, paddingBottom: 29}}>
                                     <div  >
                                     <button className="ui right floated green button">Success</button></div>
                                             <div className="content">
@@ -204,7 +204,7 @@ class card extends Component{
                                     </div>
                                     
                                 </div>
-                                </div>
+                                
                                 </Card.Body>
                               </Card>
                         </CardGroup>
